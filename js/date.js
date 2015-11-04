@@ -96,7 +96,7 @@ dateFormat.masks = {
     chatFormat:     "dd/mm/yyyy HH:MM",
     day:            "dd",
     date:           "yyyy/mm/dd",
-    dateForDashApi: "yyyy-mm-dd HH:MM:ss",
+    dateForState: "yyyy-mm-dd",
     timeForTasks:   "HH:MM",
     dateForChatMes: "dddd"
 };
